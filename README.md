@@ -30,10 +30,11 @@ Graph units sold by category
 
 ## Installation
 
-import pandas as pd 
+pip install pandas
 
-import numpy as np
+pip install numpy 
 
-import matplotlib.pyplot as plt
+pip install matplotlib
+
 
 
